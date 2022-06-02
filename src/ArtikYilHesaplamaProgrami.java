@@ -3,9 +3,6 @@ import java.util.Scanner;
 public class ArtikYilHesaplamaProgrami {
     public static void main(String[] args) {
         int year;
-        int kalan;
-        int dortYuz;
-        int yuz;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Yılı Giriniz: ");
